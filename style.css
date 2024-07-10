@@ -1,0 +1,59 @@
+body{
+    background-color: #000000;
+}
+#linea1{
+    background-color: #d10000;
+    width: 2vw;
+    height: 13vw;
+    margin-top: 15vw;
+    margin-left: 42vw;
+    animation-duration: 3s;
+    animation-name: l1;
+}
+#linea2{
+    background-color: #d60001;
+    rotate: -2deg;
+    width: 2vw;
+    height: 13vw;
+    margin-top: -13vw;
+    margin-left: 44.9vw;
+    box-shadow: -9px -5px 20px black;
+    transform: skew(22deg);
+    animation-name: l2;
+}
+#linea3{
+    background-color: #d60003;
+    width: 2vw;
+    height: 13vw;
+    margin-top: -13vw;
+    margin-left: 48vw;
+    animation-name: l3;
+}
+@keyframes l1{
+    0%{
+        height: 0vw;
+    }
+    25%{
+        height: 14vw;
+    }
+    100%{
+        height: 15vw;
+    }
+}
+@keyframes l2{
+    0%{
+        height: 0vw;
+    }
+    50%{
+        height: 14vw;
+    }
+    50%{
+        height: 5vw;
+    }
+}
+@keyframes l3{
+    0%{
+        height: 15vw;
+    }
+
+}

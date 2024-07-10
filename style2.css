@@ -1,0 +1,48 @@
+body{
+    background-attachment: #f6f6f6;
+}
+#iconoblanco{
+    background-color: #efefef;
+    width: 30vw;
+    height: 30vw;
+    margin: 0 auto;
+    margin-top: 5vw;
+    border-radius: 5vw;
+    box-shadow: 0 30px 20px #ccc,
+    0 30px 30px rgba(0, 0, 0, 0.25),
+    0 28px 0 rgba(0, 0, 0, 0.5),
+    0 50px 60px rgba(0, 0, 0, 0.1)
+}
+#iconoazul{
+    background-color: #1eabf6;
+    width: 25vw;
+    height: 25vw;
+    margin: 0 auto;
+    border-radius: 30vw;
+    margin-top: -28vw;
+}
+.flechas{
+    width: 18vw;
+    height: 18vw;
+    transition: all;
+    transition-duration: 5s;
+}
+.flechas:hover{
+    transform: rotateZ(360deg);
+}
+#flecha1{
+    margin: auto;
+    width: 0; 
+    height: 0;
+    border-left: 1.2vw solid transparent;
+    border-right: 1.2 solid transparent;
+    border-bottom: 9vw solid red;
+}
+#flecha2{
+    margin: auto;
+    width: 0; 
+    height: 0;
+    border-left: 1.3vw solid transparent;
+    border-right: 1.2 solid transparent;
+    border-bottom: 9vw solid white;
+}
