@@ -2,10 +2,10 @@
 Realización de dos páginas con animación.
 
 ## Descripción
-Las dos páginas web se enfocan en ayudranos a manejas y clonar las páginas de netflix y zafari:
+Las dos páginas web se enfocan en ayudarnos a manejar y clonar las páginas de netflix y zafari:
 
 1. La primera es la página de netflix la cual la N tiene la animación.
-2. La segunda es la página de zafari es una brujula que se mueve al pasar el mouse.
+2. La segunda es la página de zafari es una brujula que se mueve al pasar el cursor.
 
 ## Tecnologías utilizadas
 * HTML.
