@@ -19,7 +19,7 @@ Aquí podras observar lo utilizado para llevar a cabo el proyecto:
 
 Las páginas se enfocan en la animación.
 
-## Caracteristícass
+## Caracteristícas
 * Archivos [index.html]:Los cuales contienen el código principal.
 * Archivos [style.css]:Nos permite llevar a cabo la realización del diseño del proyecto.
 
