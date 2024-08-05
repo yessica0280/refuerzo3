@@ -20,8 +20,8 @@ Aquí podras observar lo utilizado para llevar a cabo el proyecto:
 Las páginas se enfocan en la animación.
 
 ## Caracteristícas
-* Archivos [index.html]:Los cuales contienen el código principal.
-* Archivos [style.css]:Nos permite llevar a cabo la realización del diseño del proyecto.
+* Archivos [Netflix](Netflix):Los cuales contienen el código principal.
+* Archivos [Zafari](Zafari):Nos permite llevar a cabo la realización del diseño del proyecto.
 
 ## Diseño
 * Se realiza el diseño responsive con el fin de que las páginas puedan ser utilizadas en varios dispositivos.
